@@ -131,13 +131,13 @@ The agent follows the **ReAct (Reasoning + Acting)** pattern, which enables dyna
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                      USER QUERY                              │
-│           "Research latest advances in RAG"                  │
+│                      USER QUERY                             │
+│           "Research latest advances in RAG"                 │
 └─────────────────────┬───────────────────────────────────────┘
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                    AGENT NODE                                │
+│                    AGENT NODE                               │
 │  ┌─────────────────────────────────────────────────────┐    │
 │  │  THINK: "I need to search for RAG techniques,       │    │
 │  │          recent papers, and practical applications" │    │
@@ -146,13 +146,13 @@ The agent follows the **ReAct (Reasoning + Acting)** pattern, which enables dyna
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                    ROUTER                                    │
+│                    ROUTER                                   │
 │         Has tool calls? ──YES──► Execute Tools              │
-│                │                                             │
-│               NO                                             │
-│                │                                             │
-│                ▼                                             │
-│         Return Final Report                                  │
+│                │                                            │
+│               NO                                            │
+│                │                                            │
+│                ▼                                            │
+│         Return Final Report                                 │
 └─────────────────────┬───────────────────────────────────────┘
                       │
            ┌──────────┴──────────┐
@@ -167,7 +167,7 @@ The agent follows the **ReAct (Reasoning + Acting)** pattern, which enables dyna
          │ Results
          ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                    AGENT NODE                                │
+│                    AGENT NODE                               │
 │  ┌─────────────────────────────────────────────────────┐    │
 │  │  OBSERVE: Process search results                    │    │
 │  │  THINK: "Need more info on specific techniques..."  │    │
@@ -182,7 +182,7 @@ The agent follows the **ReAct (Reasoning + Acting)** pattern, which enables dyna
 ### Project Structure
 
 ```
-02-ai-research-assistant/
+autonomous-research-agent/
 ├── app/
 │   └── streamlit_app.py      # Web UI with Streamlit
 ├── src/
@@ -405,5 +405,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <sub>Part of the <strong>12 AI Projects for 2025</strong> series</sub>
+  <sub>Part of the <strong>12 AI Projects for 2026</strong> series</sub>
 </p>
