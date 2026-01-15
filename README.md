@@ -29,8 +29,39 @@
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/>
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/>
-  <img src="https://img.shields.io/badge/Status-Active-success.svg?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Project-2%20of%2012-blue.svg?style=flat-square" alt="Project 2"/>
 </p>
+
+<div align="center">
+
+### 🛠️ Built With
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
+<br /><b>Python</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/anthropic/CC785C" width="48" height="48" alt="Anthropic" />
+<br /><b>Claude AI</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangGraph" />
+<br /><b>LangGraph</b>
+</td>
+<td align="center" width="100">
+<img src="https://avatars.githubusercontent.com/u/130464557?s=200&v=4" width="48" height="48" alt="Tavily" />
+<br /><b>Tavily</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
+<br /><b>Streamlit</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
