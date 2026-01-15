@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="AI Research Assistant Logo"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="AI Research Assistant Logo" width="120"/>
 </p>
 
 <h1 align="center">AI Research Assistant</h1>
