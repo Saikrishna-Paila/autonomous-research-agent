@@ -39,15 +39,15 @@
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
 <br /><b>Python</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/anthropic/CC785C" width="48" height="48" alt="Anthropic" />
+<img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="48" height="48" alt="Anthropic" />
 <br /><b>Claude AI</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangGraph" />
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" alt="LangGraph" />
 <br /><b>LangGraph</b>
 </td>
 <td align="center" width="100">
@@ -55,7 +55,7 @@
 <br /><b>Tavily</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit" />
 <br /><b>Streamlit</b>
 </td>
 </tr>
