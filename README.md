@@ -109,36 +109,6 @@ The **AI Research Assistant** is a production-grade research agent built with th
 
 ## Tech Stack
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"/>
-<br><strong>Python 3.10+</strong>
-<br><sub>Core Language</sub>
-</td>
-<td align="center" width="150">
-<img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="50" height="50"/>
-<br><strong>Claude Sonnet 4</strong>
-<br><sub>LLM Engine</sub>
-</td>
-<td align="center" width="150">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50"/>
-<br><strong>LangGraph</strong>
-<br><sub>Agent Framework</sub>
-</td>
-<td align="center" width="150">
-<img src="https://avatars.githubusercontent.com/u/130464557?s=200&v=4" width="50" height="50"/>
-<br><strong>Tavily</strong>
-<br><sub>Web Search API</sub>
-</td>
-<td align="center" width="150">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50"/>
-<br><strong>Streamlit</strong>
-<br><sub>Web UI</sub>
-</td>
-</tr>
-</table>
-
 ### Dependencies
 
 ```
