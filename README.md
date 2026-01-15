@@ -105,9 +105,7 @@ The **AI Research Assistant** is a production-grade research agent built with th
 
 <p align="center"><em>AI Research Assistant generating a comprehensive report on Enterprise LLMs</em></p>
 
----
 
-## Tech Stack
 
 ### Dependencies
 
